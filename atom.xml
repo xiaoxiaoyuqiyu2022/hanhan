@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://valaxy.site/</id>
+    <title>憨憨小站</title>
+    <updated>2023-08-17T10:27:38.798Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>xiaoxiaoyuqi</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://valaxy.site/"/>
+    <link rel="self" href="https://valaxy.site/feed.atom"/>
+    <subtitle>13岁，是伺服器腐竹</subtitle>
+    <logo>https://img1.imgtp.com/2023/08/16/nAR9dN59.jpg</logo>
+    <icon>https://valaxy.site/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2023 © xiaoxiaoyuqi</rights>
+    <entry>
+        <title type="html"><![CDATA[你好！憨憨小站！]]></title>
+        <id>https://valaxy.site/posts/hello-HANHAN</id>
+        <link href="https://valaxy.site/posts/hello-HANHAN"/>
+        <updated>2023-08-15T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h1><strong>这是什么？</strong></h1>
+<p>这是xiaoxiaoyuqi的个人博客捏，也是作为憨憨世界的官网使用</p>
+<p>生活加工作，一箭双雕了捏</p>
+<h2>想法</h2>
+<p>我会发布一些记录生活，以及服务器制作进度等要事，欢迎多多关</p>
+]]></content>
+        <author>
+            <name>xiaoxiaoyuqi</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-08-15T16:00:00.000Z</published>
+    </entry>
+</feed>
